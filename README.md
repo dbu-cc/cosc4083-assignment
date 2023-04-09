@@ -1,3 +1,13 @@
+# Assignment 3: App Development Project
+>Project 3: POS - Point Of Sale machine app development 
+## Project file
+*Project description and UI mock, download from [project 3: POS machine app development](https://github.com/dbu-cc/cosc4083-assignment/raw/main/Assessment-3-pos%20app.pdf)
+# Assignment 2: App Development Project
+>Project 2: BMI - Body mass index calculator app development 
+## Formula
+>BMI = height(cm)/weight(kg) 
+## Project file
+*Project description and UI mock, download from [project 2: BMI body mass index calculator app development](https://github.com/dbu-cc/cosc4083-assignment/raw/main/BMI%20Calculator.png)
 # Assignment 1: App Development Project
 >Project 1: Electric consumption and bill calculator
 ## Objective
